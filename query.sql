@@ -1,0 +1,1 @@
+select name, max(high) as HighestHourlyPrice from stock group by name
