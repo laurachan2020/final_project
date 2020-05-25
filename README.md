@@ -9,7 +9,7 @@ https://github.com/laurachan2020/final_project/blob/master/data_collector.py
 
 
 DataCollector Lambda configuration page
-![scrnshot](https://github.com/laurachan2020/final_project/blob/master/data_collector.PNG)
+![scrnshot](https://github.com/laurachan2020/final_project/blob/master/resources/data_collector.PNG)
 
 ## Data Tranaformer
 Kinesis Firehos: test-delivery-stream use Lambda function data_tranformer.py to write data into S3 backet delivery-stream-laura-s3
@@ -18,7 +18,7 @@ Lambda function calls boto3.client(‘firehose’) to put records successfully i
 https://github.com/laurachan2020/final_project/blob/master/data_transformer.py
 
 Kinesis Data Firehose Delivery Stream Monitoring
-![scrnshot](https://github.com/laurachan2020/final_project/blob/master/kinesis_firehose_delivery_system_monitoring.PNG)
+![scrnshot](https://github.com/laurachan2020/final_project/blob/master/resources/kinesis_firehose_delivery_system_monitoring.PNG)
 
 ##DataAnalyzer
 
