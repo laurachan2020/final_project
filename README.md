@@ -20,7 +20,7 @@ https://github.com/laurachan2020/final_project/blob/master/data_transformer.py
 Kinesis Data Firehose Delivery Stream Monitoring
 ![scrnshot](https://github.com/laurachan2020/final_project/blob/master/resources/kinesis_firehose_delivery_system_monitoring.PNG)
 
-##DataAnalyzer
+## DataAnalyzer
 
 Athena query file
 https://github.com/laurachan2020/final_project/blob/master/query.sql
