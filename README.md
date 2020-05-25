@@ -23,6 +23,7 @@ Kinesis Data Firehose Delivery Stream Monitoring
 ## DataAnalyzer
 
 Highest hourly stock “high” per company from the list provided
+
 ['FB', 'SHOP', 'BYND', 'NFLX', 'PINS', 'SQ', 'TTD', 'OKTA', 'SNAP', 'DDOG']
 
 Athena query file
