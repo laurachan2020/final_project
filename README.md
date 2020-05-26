@@ -33,4 +33,8 @@ Query output file
 https://github.com/laurachan2020/final_project/blob/master/result.csv
 
 
+## Extra Credit
+
+https://github.com/laurachan2020/final_project/blob/master/Analysis.ipynb
+
 
